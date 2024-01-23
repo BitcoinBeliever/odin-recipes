@@ -1,2 +1,3 @@
 # odin-recipes
-recipe project repository
+contain repository of all files relating to recipe project
+
