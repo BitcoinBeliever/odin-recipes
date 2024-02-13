@@ -1,0 +1,41 @@
+
+
+*{
+    background-color: tan;
+    
+}
+
+.main-title{
+    color: white;
+    background-color: rgb(151, 151, 151);
+    text-align: center;
+    font-family: 'Brush Script MT', 'Lucida Handwriting', Georgia;
+    font-size: 40px;
+    font-weight: 700;
+    text-decoration-line:underline;
+
+}
+
+.link-list {
+    color: white;
+}
+
+.link-list li {
+    margin: 50px;
+}
+
+.header {
+    font-size: 30px;
+    text-align: center;
+}
+
+.bullet-list {
+    padding: 20px;
+    margin: 20px;
+}
+
+.pic {
+    border: 10px solid black;
+    margin: 10px;
+    
+}
